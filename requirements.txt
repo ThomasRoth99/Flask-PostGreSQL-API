@@ -19,7 +19,7 @@ MarkupSafe==1.1.1
 marshmallow==2.15.1
 marshmallow-sqlalchemy==0.13.2
 mccabe==0.6.1
-pipenv==2018.11.26
+pipenv==2022.1.8
 psycopg2==2.8.4
 pylint==2.4.4
 pylint-flask==0.6
